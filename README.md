@@ -9,7 +9,7 @@ Los Angeles is a sprawling, dynamic metropolis with a complex socioeconomic fabr
 
 This project bridges that gap by transforming fragmented data into an actionable intelligence hub.
 
----
+
 
 ## 2. Key Insights
 By rigorously processing the raw data and developing the analytical dashboard, we surfaced several critical trends that directly impact operational strategy:
@@ -19,7 +19,7 @@ By rigorously processing the raw data and developing the analytical dashboard, w
 - **Demographic Vulnerabilities:** Analysis of victim profiles (Age, Descent, Sex) exposes disproportionately affected demographics, heavily informing community outreach and preventative policies.
 - **Modus Operandi & Weapons:** By categorizing over a hundred precise crime codes and weapon descriptions, we gained clarity on *how* crimes are being committed, guiding specialized task force training.
 
----
+
 
 ## 3. The Challenge of Reality: Navigating Data Complexity
 True data transformation is rarely clean. The primary challenge in this initiative was the extreme complexity and obfuscation present in the original dataset. 
@@ -35,7 +35,6 @@ We used these semantic learnings to programmatically power our ETL script (`main
 
 By hard-coding these business rules into our Python ETL pipeline, we ensured that the resulting data warehouse receives only high-fidelity, analysis-ready information.
 
----
 
 ## 4. Technical Architecture
 To handle this scale, we designed a resilient, automated data pipeline. As requested, the architecture seamlessly moves data from the source, transforms it, loads it into a robust data warehouse, and finally feeds a dynamic BI layer.
@@ -63,8 +62,9 @@ graph LR
 3. **Data Warehouse:** The processed facts and dimensions are loaded into **Snowflake / Amazon Redshift**, optimized for rapid analytical querying.
 4. **Analytics Layer:** **Power BI** connects directly to the warehouse to power the interactive data visualizations provided in the `.pbix` deliverable.
 
----
+
 
 ## 5. Executive Presentation
-![First Slide: Presentation.pptx](<img width="1158" height="648" alt="image" src="https://github.com/user-attachments/assets/2dfebc24-bf69-4784-8f56-b8a4687238da" />
+[<img width="1158" height="648" alt="image" src="https://github.com/user-attachments/assets/2dfebc24-bf69-4784-8f56-b8a4687238da" />](./presentation.pptx)
+
 
