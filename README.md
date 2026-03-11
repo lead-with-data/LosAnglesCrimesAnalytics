@@ -1,10 +1,11 @@
-<!-- Image Placeholder: Please insert your header/cover image here -->
-![Header Image Placeholder](insert_image_link_here.png)
+<img width="1953" height="1453" alt="Gemini_Generated_Image_wko1rawko1rawko1" src="https://github.com/user-attachments/assets/68d22607-6d7b-430d-9fa3-35456907ccd9" />
 
-# 💼 Case Study: Architecting Public Safety Analytics
+# Case Study: Architecting Public Safety Analytics
 
 ## 1. Background: The Context
-Los Angeles is a sprawling, dynamic metropolis with a complex socioeconomic fabric. Managing public safety across its diverse neighborhoods requires more than just intuition; it requires precision, speed, and facts. For law enforcement agencies and city planners, the sheer volume and velocity of crime data present a significant challenge. **The core problem:** How do we transition from reactive policing to proactive, data-driven decision-making? Raw data exists in abundance, but without a structured, analytical backbone, allocating resources effectively and understanding true ground-level trends remains a guessing game. 
+Los Angeles is a sprawling, dynamic metropolis with a complex socioeconomic fabric. Managing public safety across its diverse neighborhoods requires more than just intuition; it requires precision, speed, and facts. For law enforcement agencies and city planners, the sheer volume and velocity of crime data present a significant challenge. 
+
+**The core problem:** How do we transition from reactive policing to proactive, data-driven decision-making? Raw data exists in abundance, but without a structured, analytical backbone, allocating resources effectively and understanding true ground-level trends remains a guessing game. 
 
 This project bridges that gap by transforming fragmented data into an actionable intelligence hub.
 
@@ -65,8 +66,5 @@ graph LR
 ---
 
 ## 5. Executive Presentation
+![First Slide: Presentation.pptx](<img width="1158" height="648" alt="image" src="https://github.com/user-attachments/assets/2dfebc24-bf69-4784-8f56-b8a4687238da" />
 
-<!-- Presentation First Slide Placeholder -->
-![First Slide: Presentation.pptx](insert_ppt_slide_image_link_here.png)
-
-*For the complete breakdown, please refer to the attached `presentation.pptx` and `dashboard.pdf` files located in this repository.*
